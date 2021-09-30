@@ -5,5 +5,5 @@
  ![alt text](https://github.com/juancr5/Android_Google_Maps_Current_Location/blob/main/images/GCP%20-%20Dojo.jpg)
  
  
- **Location Example
- ![alt text](https://github.com/juancr5/Android_Google_Maps_Current_Location/blob/main/images/GCP%20-%20Dojo.jpg)
+ **Location Example**
+ ![alt text](https://github.com/juancr5/Android_Google_Maps_Current_Location/blob/main/images/Map.jpg)
