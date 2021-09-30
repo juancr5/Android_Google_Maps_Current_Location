@@ -99,6 +99,7 @@ public class MapsActivity extends FragmentActivity {
                         // Añade un marcador al punto exacto y mueve la camara
                         Double latitude = location.getLatitude();
                         Double longitude = location.getLongitude();
+
                         LatLng latLng = new LatLng(latitude, longitude);
                         MarkerOptions markerOptions = new MarkerOptions().position(latLng);
                         markerOptions.title("Latitud: " + latitude + " / Longitude: " + longitude);
